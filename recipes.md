@@ -14,9 +14,9 @@
 ### Spinach and Artichoke Dip
 
 Ingredients:
-- 1 can (14 oz) artichoke hearts, drained and chopped
+- 2 can (14 oz) artichoke hearts, drained and chopped
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
-- 1 cup mayonnaise
+- 1.5 cup mayonnaise
 - 1 cup grated Parmesan cheese
 - 1/2 cup shredded mozzarella cheese
 - 2 cloves garlic, minced
@@ -93,15 +93,15 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
-- 2 1/4 cups all-purpose flour
+- 6 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
-- 2 eggs
+- 3 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 6 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
