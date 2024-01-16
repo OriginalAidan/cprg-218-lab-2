@@ -74,7 +74,7 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
-- 2 boneless, skinless chicken breasts
+- 9 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
@@ -82,6 +82,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Hot sauce
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -127,7 +128,6 @@ Instructions:
 7. 2 tablespoons all-purpose flour
 
 Instructions:
-
 1. Preheat the oven to 450F. Butter and lightly flour 6 (4- to 5-ounce) ramekins and place them on a baking sheet.
 2. Combine the butter and chocolate in a double boiler and melt over low heat, stirring until smooth. Or, place the butter and chocolate in a microwave-safe bowl and microwave on high, stirring every 30-seconds until melted. Whisk together until smooth.
 3. In a large mixing bowl, combine the eggs, egg yolks, sugar, and salt. Beat on medium speed until thick and pale yellow. 4. 
